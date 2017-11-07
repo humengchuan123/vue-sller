@@ -1,6 +1,6 @@
 <template>
-<div class="header">
-	hahahhah
+<div class="seller">
+	我是seller
 </div>
 </template>
 
@@ -8,7 +8,6 @@
 export default {
 
 }
-
 </script>
 
 <style>

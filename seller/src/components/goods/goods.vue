@@ -1,14 +1,12 @@
 <template>
-<div class="header">
-	hahahhah
+<div class="goods">
+	我是goods
 </div>
 </template>
 
 <script>
 export default {
-
 }
-
 </script>
 
 <style>
